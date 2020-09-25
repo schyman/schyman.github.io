@@ -1,1 +1,0 @@
-# schyman.github.io
