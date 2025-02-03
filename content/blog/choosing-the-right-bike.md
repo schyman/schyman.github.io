@@ -1,6 +1,7 @@
 ---
 title: "Why a Gravel Bike Is the Only Commuter Bike You’ll Ever Need"
-date: 2025-02-03
+date: '2025-02-03T19:34:14+01:00'
+draft: false
 tags: ["bike commuting", "gravel bike", "urban cycling", "commuter tips", "cycling humor"]
 description: "Forget hybrids, road bikes, and whatever that folding contraption is—here’s why a gravel bike is the ultimate commuting machine for anyone who values speed, comfort, and the occasional spontaneous adventure."
 ---
