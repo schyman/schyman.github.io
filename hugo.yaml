@@ -1,4 +1,4 @@
-baseURL: https://example.org/
+baseURL: https://www.biddly.se/
 languageCode: en-us
 title: Cycle Flow
 module:
@@ -8,9 +8,9 @@ menu:
   main:
     - name: Blog
       pageRef: /blog
-      weigth: 1
+      weight: 1
     - name: Search
-      weigth: 2
+      weight: 2
       params:
         type: search
 params:
